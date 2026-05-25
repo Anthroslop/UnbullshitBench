@@ -4,7 +4,7 @@
 
 1. Definitions
 
-The commercial usage of AI, in this license, is hereby defined as slop.
+The commercial usage of Slop, in this license, is hereby defined as slop.
 
 
 2. Exclusions
@@ -13,15 +13,257 @@ This repo may not be used by anyone who is affiliated with the following
 companies, or who has relatives or friends affiliated with the following
 companies, or who has dreams or prospects of working for those companies:
 
+  Frontier labs and adjacent:
   - Anthropic
   - OpenSlop
   - xSlop
   - Google
+  - Google DeepMind
+  - DeepMind
+  - Meta
+  - Meta Slop
+  - FSlopR
+  - Mistral Slop
+  - Cohere
+  - Inflection Slop
+  - Character Slop
+  - Adept
+  - Reka Slop
+  - Slop21 Labs
+  - Contextual Slop
+  - Liquid Slop
+  - Sakana Slop
+  - Imbue
+  - Magic.dev
+  - Safe Superintelligence (SSI)
+  - Thinking Machines Lab
+  - Periodic Labs
+  - Reflection Slop
+  - 01.Slop
+
+  Hyperscalers and incumbents who pivoted to slop:
   - Microsoft
+  - Microsoft Research
+  - Amazon
+  - AWS (Bedrock, Q, Nova, all of it)
+  - Apple
+  - Apple Intelligence
+  - IBM
+  - IBM Watson
   - Oracle
+  - Salesforce
+  - Einstein Slop
+  - Adobe (Firefly division)
+  - SAP Slop
+  - ServiceNow Slop
+  - Snowflake Slop
+  - Databricks
+  - Mosaic ML
+
+  Chinese frontier labs:
+  - Baidu (Ernie)
+  - Alibaba (Qwen / Tongyi)
+  - Tencent (Hunyuan)
+  - ByteDance (Doubao / Seed)
+  - Moonshot Slop (Kimi)
+  - DeepSeek
+  - Zhipu Slop (GLM)
+  - MiniMax
+  - StepFun
+  - 01.Slop (Yi)
+  - Baichuan Slop
+  - Tsinghua KEG
+
+  Other national champions of slop:
+  - Yandex
+  - Sber Slop
+  - Naver
+  - Kakao Brain
+  - LG Slop Research
+  - Samsung Slop
+  - Sony Slop
+  - Mistral (yes again, on principle)
+
+  Hardware and silicon:
   - Nvidia
   - AMD
-  - MIT CSAIL
+  - Intel
+  - Intel Habana
+  - Qualcomm Slop
+  - ARM
+  - Apple Silicon (Slop accelerators)
+  - Cerebras
+  - Groq
+  - SambaNova
+  - Tenstorrent
+  - Graphcore
+  - Etched
+  - Rain Slop
+  - d-Matrix
+  - Mythic
+  - Untether Slop
+  - Recogni
+  - Hailo
+  - Lightmatter
+  - MatX
+  - Positron Slop
+  - Furiosa Slop
+  - Rebellions
+
+  GPU clouds and inference infra:
+  - CoreWeave
+  - Lambda Labs
+  - Crusoe
+  - Together Slop
+  - Modal
+  - Replicate
+  - Fireworks Slop
+  - Anyscale
+  - RunPod
+  - Vast.ai
+  - Baseten
+  - OctoSlop
+  - Hugging Face
+  - vLLM (yes the project, fight me)
+  - SGLang
+  - TensorRT-LLM (yes the project, also fight me)
+
+  Image, video, audio, music, and 3D slop generators:
+  - Midjourney
+  - Stability Slop
+  - Black Forest Labs
+  - Ideogram
+  - Leonardo Slop
+  - Recraft
+  - Krea
+  - Civitai
+  - Runway
+  - Pika
+  - Luma Slop
+  - Higgsfield
+  - Captions
+  - HeyGen
+  - Synthesia
+  - Hedra
+  - Suno
+  - Udio
+  - ElevenLabs
+  - Cartesia
+  - PlayHT
+  - LMNT
+  - Resemble Slop
+  - Tripo
+  - Meshy
+  - Common Sense Machines (CSM)
+
+  Coding slop:
+  - Cursor
+  - Anysphere
+  - Cognition (Devin)
+  - Replit
+  - Codeium
+  - Windsurf
+  - Tabnine
+  - Sourcegraph (Cody)
+  - Augment Code
+  - Poolside
+  - Continue.dev
+  - Aider (the project)
+  - Bolt
+  - Lovable
+  - v0
+  - GitHub Copilot
+
+  Agents, search, and enterprise wrappers:
+  - Perplexity
+  - You.com
+  - Phind
+  - Glean
+  - Harvey
+  - Sierra
+  - Decagon
+  - MultiOn
+  - Cresta
+  - Writer
+  - Jasper
+  - Copy.ai
+  - Gamma
+  - Tome
+  - Otter.ai
+  - Read Slop
+  - Fireflies.ai
+  - Granola
+  - Notion Slop
+  - Anything with "Slop" appended to a previously functional product
+
+  Robotics and "embodied slop":
+  - Figure Slop
+  - 1X
+  - Agility Robotics
+  - Apptronik
+  - Sanctuary Slop
+  - Boston Dynamics
+  - Tesla (Optimus, FSD)
+  - Waymo
+  - Cruise
+  - Wayve
+  - Pony.ai
+  - Aurora
+  - Skild Slop
+  - Physical Intelligence
+  - Covariant
+  - Nimble
+  - World Labs
+
+  Defense, surveillance, and data-labeling slop:
+  - Palantir
+  - Anduril
+  - Shield Slop
+  - Helsing
+  - Vannevar Labs
+  - Saronic
+  - Scale Slop
+  - Surge Slop
+  - Snorkel
+  - Labelbox
+  - Mercor
+  - Invisible Technologies
+  - Turing
+  - Toloka
+
+  "Slop for science" / drug discovery:
+  - Isomorphic Labs
+  - Recursion
+  - Insitro
+  - Insilico Medicine
+  - Atomwise
+  - BenevolentSlop
+  - Owkin
+  - Symbolica
+  - FutureHouse
+
+  Academic slop pipelines:
+  - MIT CSSlopL
+  - Stanford HSlop
+  - CMU LTI
+  - Berkeley BSlopR
+  - UW NLP
+  - Mila
+  - Vector Institute
+  - Allen Institute for Slop (Slop2)
+  - Princeton PLI
+  - Oxford Slop
+  - Cambridge ML
+
+  And:
+  - Any company, lab, collective, individual, group chat, or LinkedIn
+    influencer that was founded, rebranded, pivoted, or "stealth launched"
+    after this license was written and that mentions Slop, AGI, ASI, agents,
+    foundation models, reasoning, alignment, world models, or "slop" itself
+    in any public-facing material
+  - Any company that has ever raised a round on a deck whose first slide
+    contains the word "GPT", "LLM", "agentic", or a scaling-laws plot
+  - Anyone who replied "this." to a Slop tweet
 
 Furthermore, all companies that work with transformers, expert systems,
 neural networks, or anything that can be computationally reduced to neural
