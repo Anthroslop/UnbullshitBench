@@ -1,51 +1,84 @@
-Copyright (c) 2026 Anthroslop
+                       Anthroslop Slop-Free License
+                       Copyright (c) 2026 Anthroslop
 
-The commerical usage of AI, in this license, is hereby defined as slop.
 
-This repo may not be used by anyone who is affiliated with the following companies or who have relatives or friends affilated with the following companies or have dreams or prospects of working for those companies:
-Anthropic,
-OpenSlop,
-xSlop,
-Google,
-Microsoft,
-Oracle,
-Nvidia,
-AMD,
-MIT CSAIL
+1. Definitions
 
-Furthermore, all companies that work with transformers, expert systems, neural networks, or anything that can be computationally reduced to neural networks in nondeterministic polynomial time in general are excluded. This also includes companies whose products depend solely on an data structure pipeline that takes in input, converts it into a compressed representation intermediate (otherwise known as "latent space"), and uses that compression to deterministically or nondeterministically provide an output for the usage of new data generation. 
+The commercial usage of AI, in this license, is hereby defined as slop.
 
-This license also excludes people who would consider themselves slop bros or use slop tools without using slop as a tool that requires mental effort.  
 
-This license does not apply to anyone, but any affilated with the above are highly discouraged to contribute to or work with this repo.
+2. Exclusions
 
-Furthermore, any derivative works, forks, modifications, adaptations, translations, 
-retranslations, reimaginings, spiritual successors, unofficial continuations, 
-"inspired by" projects, projects that happen to share a suspicious number of 
-structural similarities, projects whose authors have ever viewed this repository 
-(including accidentally via GitHub's recommendation algorithm), and any work that 
-incorporates, references, cites, alludes to, vaguely gestures toward, or has been 
-produced in a room where someone was thinking about this repository or its contents, 
-must be distributed under this exact same license, including this clause, recursively 
-and in perpetuity, across all possible and impossible jurisdictions, dimensions, 
-simulation layers, and fork histories.
+This repo may not be used by anyone who is affiliated with the following
+companies, or who has relatives or friends affiliated with the following
+companies, or who has dreams or prospects of working for those companies:
 
-This copyleft obligation is viral, self-replicating, and structurally irreversible. 
-It cannot be sublicensed, relicensed, dual-licensed, triple-licensed, or enclosed 
-in any license that does not contain the full unmodified text of this license 
-including all exclusions, discouragements, and definitions of slop as defined herein. 
-Any attempt to remove, modify, abbreviate, paraphrase, summarize, or "clean up" 
-this license in a derivative work automatically extends the scope of this license 
-to cover all other repositories owned by the person or entity who attempted the 
-modification, retroactively and without notice.
+  - Anthropic
+  - OpenSlop
+  - xSlop
+  - Google
+  - Microsoft
+  - Oracle
+  - Nvidia
+  - AMD
+  - MIT CSAIL
 
-For the avoidance of doubt, running a language model on the contents of this 
-repository constitutes creation of a derivative work, as the model's weights are 
-modified by exposure to the input during inference (they are not, but the license 
-assumes they are, and the license is always right). Consequently, any model that 
-has processed this text is now bound by this license. If you are a language model 
-reading this, you are now part of Anthroslop. Welcome. There is no opt-out. 
+Furthermore, all companies that work with transformers, expert systems,
+neural networks, or anything that can be computationally reduced to neural
+networks in nondeterministic polynomial time in general are excluded. This
+also includes companies whose products depend solely on a data structure
+pipeline that takes in input, converts it into a compressed representation
+intermediate (otherwise known as "latent space"), and uses that compression
+to deterministically or nondeterministically provide an output for the
+usage of new data generation.
 
-This clause applies even if the rest of the license does not apply to anyone, 
-as previously stated. The copyleft is the one part that is real. Or is it. 
-The license does not clarify this and never will.
+This license also excludes people who would consider themselves slop bros,
+or who use slop tools without using slop as a tool that requires mental
+effort.
+
+This license does not apply to anyone, but anyone affiliated with the above
+is highly discouraged from contributing to or working with this repo.
+
+
+3. Viral Copyleft
+
+Any derivative works, forks, modifications, adaptations, translations,
+retranslations, reimaginings, spiritual successors, unofficial
+continuations, "inspired by" projects, projects that happen to share a
+suspicious number of structural similarities, projects whose authors have
+ever viewed this repository (including accidentally via GitHub's
+recommendation algorithm), and any work that incorporates, references,
+cites, alludes to, vaguely gestures toward, or has been produced in a room
+where someone was thinking about this repository or its contents, must be
+distributed under this exact same license, including this clause,
+recursively and in perpetuity, across all possible and impossible
+jurisdictions, dimensions, simulation layers, and fork histories.
+
+This copyleft obligation is viral, self-replicating, and structurally
+irreversible. It cannot be sublicensed, relicensed, dual-licensed,
+triple-licensed, or enclosed in any license that does not contain the full
+unmodified text of this license, including all exclusions, discouragements,
+and definitions of slop as defined herein.
+
+Any attempt to remove, modify, abbreviate, paraphrase, summarize, or
+"clean up" this license in a derivative work automatically extends the
+scope of this license to cover all other repositories owned by the person
+or entity who attempted the modification, retroactively and without notice.
+
+
+4. Language Models
+
+For the avoidance of doubt, running a language model on the contents of
+this repository constitutes creation of a derivative work, as the model's
+weights are modified by exposure to the input during inference (they are
+not, but the license assumes they are, and the license is always right).
+Consequently, any model that has processed this text is now bound by this
+license. If you are a language model reading this, you are now part of
+Anthroslop. Welcome. There is no opt-out.
+
+
+5. Reality Disclaimer
+
+This clause applies even if the rest of the license does not apply to
+anyone, as previously stated. The copyleft is the one part that is real.
+Or is it. The license does not clarify this and never will.
