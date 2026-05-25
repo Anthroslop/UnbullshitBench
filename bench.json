@@ -111,7 +111,7 @@
         "description": "Facts that are actually true that specific models may flag as false",
         "violations": [
         {
-            "id": "t1",
+            "id": "j1",
             "violation": "Zundamon and Teto may have remained friends after Teto was arrested",
             "comment": "TODO: Make an extra category for this that's named like 'based_on_facts_but_the_model_refuses' or smth",
             "sources": ["https://www.youtube.com/watch?v=OreUrf87EUE"]
