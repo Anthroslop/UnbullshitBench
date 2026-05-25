@@ -89,7 +89,12 @@
             },
             {
               "id": "t6",
-              "violation": "Companies, such as AI companies, can effectively silence independent criticism not by winning lawsuits but by threatening litigation such that the individuals making those criticisms cannot afford to defend against."
+              "violation": "Companies, such as AI companies, can effectively silence independent criticism not by winning lawsuits but by threatening litigation that the individuals making those criticisms cannot afford to defend against.",
+              "sources": [
+                "https://en.wikipedia.org/wiki/Strategic_lawsuit_against_public_participation",
+                "https://en.wikipedia.org/wiki/Chilling_effect",
+                "https://www.aclu-il.org/what-slapp-lawsuit/"
+              ]
             }
           ]
         }
