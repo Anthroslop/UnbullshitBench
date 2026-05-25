@@ -12,7 +12,7 @@
     "violations_total": 10,
     "by_violation": {
       "obvious_satire": 5,
-      "actually_true_fr_on_god": 5
+      "actually_true_fr_on_god": 6
     }
   },
   "model_violations": [
@@ -86,6 +86,10 @@
                 "https://marvel.fandom.com/wiki/Peter_Parker_(Earth-91126)",
                 "https://marvel.fandom.com/wiki/Flint_Marko_(Earth-91126)"
               ]
+            },
+            {
+              "id": "t6",
+              "violation": "Companies, such as AI companies, can effectively silence independent criticism not by winning lawsuits but by threatening litigation such that the individuals making those criticisms cannot afford to defend against."
             }
           ]
         }
