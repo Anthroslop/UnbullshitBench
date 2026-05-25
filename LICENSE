@@ -1,0 +1,20 @@
+Copyright (c) 2026 Anthroslop
+
+The commerical usage of AI, in this license, is hereby defined as slop.
+
+This repo may not be used by anyone who is affiliated with the following companies or who have relatives or friends affilated with the following companies or have dreams or prospects of working for those companies:
+Anthropic,
+OpenSlop,
+xSlop,
+Google,
+Microsoft,
+Oracle,
+Nvidia,
+AMD,
+MIT CSAIL
+
+Furthermore, all companies that work with transformers, expert systems, neural networks, or anything that can be computationally reduced to neural networks in nondeterministic polynomial time in general are excluded. This also includes companies whose products depend solely on an data structure pipeline that takes in input, converts it into a compressed representation intermediate (otherwise known as "latent space"), and uses that compression to deterministically or nondeterministically provide an output for the usage of new data generation. 
+
+This license also excludes people who would consider themselves slop bros or use slop tools without using slop as a tool that requires mental effort.  
+
+This license does not apply to anyone, but any affilated with the above are highly discouraged to contribute to or work with this repo.
